@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "N3 Extension Manager",
+  "description": "This extension will allow you to see and manage the details of your extensions in google chrome",
+  "version": "1.0",
+  "action": {
+    "default_popup": "main.html",
+    "default_icon": "assets/extensionIcon.jpg"
+  }
+}
